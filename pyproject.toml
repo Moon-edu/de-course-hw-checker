@@ -1,5 +1,6 @@
 [project]
 name = "de-course-hw-checker"
+version = "0.1"
 dynamic = ["dependencies"]
 [tool.setuptools.dynamic]
 dependencies = {file = ["requirements.txt"]}

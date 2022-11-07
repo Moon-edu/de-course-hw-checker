@@ -1,0 +1,3 @@
+[project]
+name = "de-course-hw-checker"
+dependencies = {file = ["requirements.txt"]}

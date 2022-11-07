@@ -1,0 +1,2 @@
+psycopg==3.1.4
+pytest-unordered==0.5.1
